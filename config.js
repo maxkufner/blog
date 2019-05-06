@@ -29,7 +29,8 @@ module.exports = {
     contacts: {
       email: 'maximiliankufner@gmail.com',
       twitter: 'maxkufner',
-      github: 'maxkufner'
+      github: 'maxkufner',
+      linkedin: 'maxkufner'
     }
   }
 };
