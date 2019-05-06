@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Max Kufner',
-    photo: '/Obby_characters_Max.png',
+    photo: '/photo.jpg',
     bio: 'co-founder @ObbyUK, former strategy consultant @cilconsultants, love @fcbayern & 🏌️‍♂️',
     contacts: {
       email: 'maximiliankufner@gmail.com',
