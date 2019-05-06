@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://maxkufner.co',
+  title: 'MKs blog',
+  subtitle: 'co-founder @ObbyUK, former strategy consultant @cilconsultants, love @fcbayern & 🏌️‍♂️',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,16 +23,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Max Kufner',
+    photo: '/Obby_characters_Max.png',
+    bio: 'co-founder @ObbyUK, former strategy consultant @cilconsultants, love @fcbayern & 🏌️‍♂️',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'maximiliankufner@gmail.com',
+      twitter: 'maxkufner',
+      github: 'maxkufner'
     }
   }
 };
