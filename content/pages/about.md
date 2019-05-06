@@ -2,7 +2,7 @@
 template: page
 title: About me
 slug: /pages/about
-draft: true
+draft: false
 ---
 co-founder [@ObbyUK](https://obby.co.uk/), former strategy consultant, love @fcbayern &🏌️
 
