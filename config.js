@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://maxkufner.co',
   title: 'MKs blog',
-  subtitle: 'co-founder @ObbyUK, former strategy consultant @cilconsultants, love @fcbayern & 🏌️‍♂️',
+  subtitle: 'co-founder @ObbyUK, former strategy consultant, love @fcbayern & 🏌️‍♂️',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -16,16 +16,12 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Max Kufner',
     photo: '/photo.jpg',
-    bio: 'co-founder @ObbyUK, former strategy consultant @cilconsultants, love @fcbayern & 🏌️‍♂️',
+    bio: 'co-founder @ObbyUK, former strategy consultant, love @fcbayern & 🏌️‍♂️',
     contacts: {
       email: 'maximiliankufner@gmail.com',
       twitter: 'maxkufner',
